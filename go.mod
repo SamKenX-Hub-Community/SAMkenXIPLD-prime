@@ -3,13 +3,13 @@ module github.com/ipld/go-ipld-prime
 go 1.19
 
 require (
-	github.com/frankban/quicktest v1.14.4
+	github.com/frankban/quicktest v1.14.5
 	github.com/google/go-cmp v0.5.9
-	github.com/ipfs/go-cid v0.4.0
-	github.com/multiformats/go-multicodec v0.8.1
-	github.com/multiformats/go-multihash v0.2.1
+	github.com/ipfs/go-cid v0.4.1
+	github.com/multiformats/go-multicodec v0.9.0
+	github.com/multiformats/go-multihash v0.2.3
 	github.com/polydawn/refmt v0.89.0
-	github.com/warpfork/go-testmark v0.11.0
+	github.com/warpfork/go-testmark v0.12.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
